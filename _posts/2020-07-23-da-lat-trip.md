@@ -3,6 +3,7 @@ layout: post
 title: Đà Lạt 18-20/07/2020 (Phần 1)
 subtitle: Chuyến đi đầu tiên với những người bạn ở UEL
 cover-img: assets/img/Dalat_cover.jpg
+thumbnail-img: ""
 tags: [Travel, Đà Lạt]
 ---
 
