@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.facebook.com/silver.eye.1048"
+  Author's home: "https://www.facebook.com/minhkhoi1026"
 
 # --- Logo --- #
 
@@ -39,7 +39,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "minhkhoi1026@gmail.com"
-  facebook: silver.eye.1048
+  facebook: minhkhoi1026
   github: minhkhoi1026
 #  twitter: daattali
 #  rss: true
